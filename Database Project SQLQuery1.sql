@@ -1,7 +1,4 @@
--- ITCS 1170 2025Winter Week 13 Group Steeler Project 
--- Members in group: Xiaowen Wang
 
--- Code wrote by Xiaowen
 
 -- Step 1: Switch to master so the target DB isn't in use
 USE master;
